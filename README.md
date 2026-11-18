@@ -391,9 +391,15 @@
                     { arab: "طَالِبٌ", latin: "Thaalibun", arti: "Siswa (Laki-laki)" },
                     { arab: "طَالِبَةٌ", latin: "Thaalibatun", arti: "Siswi (Perempuan)" },
                     { arab: "مُدَرِّسٌ", latin: "Mudarrisun", arti: "Guru (Laki-laki)" },
-                    { arab: "مَكْتَبَةٌ", latin: "Maktabatun", arti: "Perpustakaan" },
-                    { arab: "فَصْلٌ", latin: "Fashlun", arti: "Kelas" },
-                    { arab: "سَبُّورَةٌ", latin: "Sabbuuratun", arti: "Papan Tulis" }
+                    { arab: "مُدَرِّسَةٌ", latin: "mudarrisatun", arti: "guru (perempuan)" },
+                    { arab: "أَبٌ", latin: "Abun", arti: "Ayah" },
+                    { arab: "أُمٌّ", latin: "‘Ummun", arti: "Ibu" }
+                    { arab: "أَخٌ", latin: "akhun", arti: "saudara" }
+                    { arab: "أُخْتٌ", latin: "Ukhtun", arti: "Saudari" }
+                    { arab: "عَمٌّ", latin: "'Ammun", arti: "paman" }
+                    { arab: "عَمَّةٌ", latin: "'ammatun", arti: "bibi" }
+                    { arab: "جَدٌّ", latin: "jaddun", arti: "kakek" }
+                    { arab: "جَدَّةٌ", latin: "jaddatun", arti: "nenek" }
                 ],
                 hiwar: [
                     { tokoh: "Azzam (عَزَّام)", arab: "السَّلَامُ عَلَيْكُمْ، مَا اسْمُكَ يَا أَخِي؟", latin: "Assalamu'alaikum, masmuka yaa akhii?", arti: "Semoga keselamatan atasmu, siapa namamu wahai saudaraku?" },
